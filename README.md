@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on with you
-- 📫 How to reach me : Mukhee0906@gmail.com
+- 📫 How to reach me : Hsekumsti@gmail.com
 - 🤩 Portfolio: https://mukesh-portfolio.streamlit.app/
 <!---
 Mukesh-P/Mukesh-P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
