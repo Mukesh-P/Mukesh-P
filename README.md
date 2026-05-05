@@ -9,12 +9,12 @@
 ## 📊 Developer Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukesh-P&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Mukesh-P&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mukesh-P&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukesh-P&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukesh-P&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mukesh-P&theme=tokyonight" />
 </p>
 
 ---
@@ -32,3 +32,9 @@ Medium          : 98
 Hard            : 20
 Submissions     : 600+ (last year)
 Max Streak      : 16 days
+```
+<p align="center"> 🔗 https://leetcode.com/u/Mukesh_P-0906/ </p>
+Languages   : Python, C, Swift
+Frontend    : React, HTML, CSS, SwiftUI
+Database    : MySQL
+Tools       : Git, GitHub
