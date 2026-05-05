@@ -1,7 +1,7 @@
 # Mukesh P
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;DSA+%7C+Web+Development;Building+%26+Improving+Everyday" />
+  <img src="https://readme-typing-svg.demolab.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;DSA+%7C+Web+Development;Building+%26+Improving+Everyday" />
 </p>
 
 ---
@@ -33,8 +33,16 @@ Hard            : 20
 Submissions     : 600+ (last year)
 Max Streak      : 16 days
 ```
-<p align="center"> 🔗 https://leetcode.com/u/Mukesh_P-0906/ </p>
+
+<p align="center">🔗 LeetCode: <a href="https://leetcode.com/u/Mukesh_P-0906/">leetcode.com/u/Mukesh_P-0906</a></p>
+
+---
+
+## 🛠️ Tech Stack
+
+```text
 Languages   : Python, C, Swift
 Frontend    : React, HTML, CSS, SwiftUI
 Database    : MySQL
 Tools       : Git, GitHub
+```
